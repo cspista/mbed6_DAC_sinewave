@@ -21,7 +21,6 @@ of the instructions in the endless loop.
 * Active speaker or oscilloscope connected to the PA_4 pin (this is the pin labeled as A2 on the board)
 
 
-```
 ## mbed6_DAC_sinewave results
 
 For the sake of simplicity we used only 36 samples for the whole sinewave
